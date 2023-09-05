@@ -11,8 +11,7 @@ A perfect first challenge if you're new to HTML and CSS. The card layout doesn't
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View on Vercel](https://fem-qr-component-main.vercel.app/)
 
 ### Built with
 
